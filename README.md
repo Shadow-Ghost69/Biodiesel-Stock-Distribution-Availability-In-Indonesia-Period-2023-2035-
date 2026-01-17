@@ -14,6 +14,3 @@ Purpose of The Model:
 4. To analyse the influence of the use of the latest technology average rate as an important variable in increasing domestic biodiesel production in Indonesia.
 5. To analyse the availability of facilities, and infrastructure development average rate as an important variable in increasing biodiesel distribution to stock in Indonesia.
 So, addressing these issues requires collaboration between government, industry, and other stakeholders to ensure a sustainable supply of biodiesel amidst rising demand.
-
-
-Note: Move the pointer to the right to see the view to control the bar in Vensim after running the model.
