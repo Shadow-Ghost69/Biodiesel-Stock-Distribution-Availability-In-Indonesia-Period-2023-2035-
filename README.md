@@ -1,5 +1,5 @@
 # Optimizing-and-Forecasting-the-Amount-of-Biodiesel-Stock-Distribution-Availability-In-Indonesia
-The project aims to find out whether the stock distribution availability in Indonesia so that it will be able to meet the needs of both domestic (including its demand and production) and global export markets.
+The project aims to find out whether the stock distribution availability in Indonesia so that it will be able to meet the needs of both domestic (including its demand, production, and forcast) and global export markets.
 
 The Problem:
 The availability of biodiesel stock in Indonesia faces several problems, especially with increasing demand both domestically and for global export. Here are some examples of problems that may arise such as the following:
@@ -13,6 +13,7 @@ Purpose of The Model:
 3. To analyse the product quality, and affordable price average rate for both industrial and retail as an important variable in increasing increasing domestic demand in Indonesia.
 4. To analyse the influence of the use of the latest technology average rate as an important variable in increasing domestic biodiesel production in Indonesia.
 5. To analyse the availability of facilities, and infrastructure development average rate as an important variable in increasing biodiesel distribution to stock in Indonesia.
+So, addressing these issues requires collaboration between government, industry, and other stakeholders to ensure a sustainable supply of biodiesel amidst rising demand.
 
 
 Note: Move the pointer to the right to see the view to control the bar in Vensim after running the model.
